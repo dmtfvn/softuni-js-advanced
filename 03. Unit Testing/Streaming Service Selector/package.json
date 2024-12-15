@@ -1,0 +1,17 @@
+{
+  "name": "3",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "Streaming-Service-Selector.js",
+  "scripts": {
+    "test": "mocha Streaming-Service-Selector.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3"
+  }
+}

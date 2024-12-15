@@ -1,0 +1,17 @@
+{
+  "name": "03-workforce-management",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "Workforce-Management.js",
+  "scripts": {
+    "test": "mocha Workforce-Management.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3"
+  }
+}

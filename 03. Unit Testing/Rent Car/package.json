@@ -1,0 +1,17 @@
+{
+  "name": "03-rent-car",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "Rent-Car.js",
+  "scripts": {
+    "test": "mocha Rent-Car.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^11.0.1"
+  }
+}

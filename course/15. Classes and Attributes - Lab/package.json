@@ -1,0 +1,24 @@
+{
+  "name": "15.classes-and-attributes---lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "module",
+    "es6"
+  ],
+  "author": "DMT",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chai": "^5.0.0",
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3"
+  }
+}

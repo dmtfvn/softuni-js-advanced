@@ -1,0 +1,17 @@
+{
+  "name": "03-online-store",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "Online-Store.js",
+  "scripts": {
+    "test": "mocha Online-Store.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3"
+  }
+}

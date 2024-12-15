@@ -1,0 +1,17 @@
+{
+  "name": "art-gallery",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "Art-Gallery.js",
+  "scripts": {
+    "test": "mocha Art-Gallery.test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^11.0.1"
+  }
+}

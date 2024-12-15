@@ -1,0 +1,17 @@
+{
+  "name": "03-lottery",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "Lottery.js",
+  "scripts": {
+    "test": "mocha Lottery.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "03-motorcycle-rider",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "Motorcycle-Rider.js",
+  "scripts": {
+    "test": "mocha Motorcycle-Rider.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^11.0.1"
+  }
+}
